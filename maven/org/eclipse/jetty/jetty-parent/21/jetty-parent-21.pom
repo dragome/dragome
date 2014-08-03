@@ -202,6 +202,7 @@
     <url>http://www.mortbay.com</url>
   </organization>
   <distributionManagement>
+  <!--
     <repository>
       <id>oss.sonatype.org</id>
       <name>Jetty Staging Repository</name>
@@ -212,6 +213,7 @@
       <name>Jetty Snapshot Repository</name>
       <url>http://oss.sonatype.org/content/repositories/jetty-snapshots/</url>
     </snapshotRepository>
+    -->
     <site>
       <id>jetty.eclipse.website</id>
       <url>scp://build.eclipse.org:/home/data/httpd/download.eclipse.org/jetty/${project.version}/</url>
